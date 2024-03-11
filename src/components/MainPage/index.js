@@ -55,7 +55,7 @@ function TodoApp() {
 
   return (
     <div className="container">
-      <h1>Todo App</h1>
+      <h1>Day Goals!</h1>
       <div className="input-container">
         <input
           type="text"

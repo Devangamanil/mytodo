@@ -3,7 +3,7 @@
   min-height: 100vh;
   margin: 0 auto;
   padding: 20px;
-  background-color: #f4f4f4;
+  background-color: #6ca7bb;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -11,6 +11,7 @@
 h1 {
   text-align: center;
 }
+
 
 .input-container {
   display: flex;
